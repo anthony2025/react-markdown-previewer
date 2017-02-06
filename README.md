@@ -1,5 +1,5 @@
 Implementing the Marked library in a simple react powered previewer.
-Live at http://
+Live at https://react-markdown-previewer.herokuapp.com/
 
 ### User stories:
 

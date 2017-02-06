@@ -1,7 +1,25 @@
 body {
   margin: 0;
+  background: #222;
 }
 
 .app-container {
+  height: 100vh;
   display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.editor {
+  height: 90vh;
+  width: 45vw;
+  background: #BBB;
+  font: 17px/25px Helvetica;
+}
+
+.preview {
+  height: 90vh;
+  width: 45vw;
+  background: #CCC;
+  font: 17px/25px Helvetica;
 }
