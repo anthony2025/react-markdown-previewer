@@ -1,5 +1,3 @@
-## In Progress
-
 Implementing the Marked library in a simple react powered previewer.
 Live at https://react-markdown-previewer.herokuapp.com/
 
